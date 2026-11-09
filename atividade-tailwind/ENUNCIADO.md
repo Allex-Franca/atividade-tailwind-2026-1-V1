@@ -1,25 +1,6 @@
 # Atividade: Landing page da "Cafeteria Grão Dourado" com React + Tailwind CSS
 
-**Duração sugerida:** 2 aulas (≈ 3h)
-**Nível:** iniciante / intermediário
-**Pré-requisitos:** HTML semântico, noções básicas de CSS (box model, cores, unidades) e de React (componentes, JSX, props e `.map()`)
-
 ---
-
-## Objetivos de aprendizagem
-
-Ao final da atividade, você deverá ser capaz de:
-
-1. Explicar o que é um framework **utility-first** e como ele se diferencia do CSS tradicional.
-2. Aplicar utilitários de **tipografia, cores, espaçamento, bordas e sombras**.
-3. Montar layouts com **Flexbox** e **Grid** usando classes do Tailwind.
-4. Criar interfaces **responsivas** com os prefixos `sm:`, `md:` e `lg:` (abordagem *mobile-first*).
-5. Usar **estados** (`hover:`, `focus:`, `active:`) e **transições**.
-6. Estilizar **componentes React** com `className`, aproveitando a reutilização de componentes.
-7. (Bônus) Implementar **modo escuro** com o prefixo `dark:` e um menu mobile com `useState`.
-
----
-
 ## Preparação
 
 O projeto já vem configurado com **Vite + React + Tailwind CSS v4**. Você precisa ter o **Node.js** (versão 20 ou mais nova) instalado.

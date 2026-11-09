@@ -1,1 +1,4 @@
 @import "tailwindcss";
+@theme {
+  --color-cafe-500: #8b5a2b;
+}
